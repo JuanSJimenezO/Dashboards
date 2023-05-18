@@ -1,4 +1,26 @@
 <div>
+  <h2 align = "left" id = "heading" font-weight =  bold>Sales Dashboard (Dash)📊📈</h2>
+  <h4 align="Left" id="heading">User Story:🙋‍♀️🙋‍♂️</h4>
+</div>
+<div> <h8 align="Left" id="heading">As a user, I want to have a dashboard that allows me to not only validate the status of sales up to the cutoff date but also identify opportunities for improvement within the operation in terms of crossed-sales.
+</h8> </div>
+
+<div> 
+  <h4 align="Left" id="heading" >Acceptance Criteria:✔🔨</h4></p>
+</div>
+
+<div><ul class="center-bullets">
+  <li>The dashboard should provide a user-friendly interface (UIX) that is easy to navigate and visually appealing.</li>
+ 
+</ul></div>
+
+<div class="image-container">
+  <img src="https://github.com/JuanSJimenezO/Dashboards/blob/main/Dash_Sales_Dashboard.JPG" alt="Image description">
+</div>
+
+
+
+<div>
   <h2 align = "left" id = "heading" font-weight =  bold>Sales Dashboard (PowerBI)📊📈</h2>
   <h4 align="Left" id="heading">User Story:🙋‍♀️🙋‍♂️</h4>
 </div>
